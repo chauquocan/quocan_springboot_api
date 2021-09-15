@@ -3,5 +3,5 @@ package com.quocan.quocan_springboot_api.service;
 import org.springframework.stereotype.Service;
 
 @Service
-public class EmployeeServiceImpl implements EmployeeService {
+public interface UserService {
 }
